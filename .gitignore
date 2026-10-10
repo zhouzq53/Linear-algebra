@@ -1,0 +1,21 @@
+# Jupyter 自动生成的检查点文件夹，不需要提交
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 教材 PDF（版权文件，不放进公开仓库）
+Lay et al. - 2022 - Linear algebra and its applications.pdf
+
+# 本机专用工具（只在这台电脑上使用，不进仓库）
+learner.md
+启动jupyter.bat
+
+# VS Code 本机配置（含个人路径，不进仓库）
+.vscode/

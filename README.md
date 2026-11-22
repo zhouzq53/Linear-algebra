@@ -63,13 +63,13 @@
 | 3.3 | 克拉默法则、体积与线性变换（Cramer's Rule, Volume, and Linear Transformations） | 克拉默法则、含参数方程组、伴随矩阵与求逆公式、平行四边形面积与平行六面体体积、面积与体积缩放、椭圆与椭球、求逆运算量比较 |
 | 补充习题 | 综合应用（Supplementary Exercises） | 范德蒙德行列式与插值唯一性、可逆性的几何判据、分块三角矩阵的行列式、特殊结构矩阵的行列式公式 |
 
-第三章习题结合数学证明与 Python 实验，使用 SymPy 进行精确计算，使用 NumPy 比较条件数及数值结果，使用 mpmath 检验高精度浮点求逆。§3.3 第 41 题目前提供算法模型的 FLOPs 估算，MATLAB 实际运算计数尚未完成。
+第三章习题结合数学证明与 Python 实验，使用 SymPy 进行精确计算，使用 NumPy 比较条件数及数值结果，使用 mpmath 检验高精度浮点求逆。
 
 ## 学习进度
 
-- [x] 第 1 章 Linear Equations in Linear Algebra 线性方程组（已整理）
-- [ ] 第 2 章 Matrix Algebra 矩阵代数（已整理 §2.1–2.5、§2.7–2.9 及补充习题；§2.6 尚未整理）
-- [ ] 第 3 章 Determinants 行列式（已整理 §3.1–3.3 及补充习题；§3.3 第 41 题 MATLAB 运算计数待完成）
+- [x] 第 1 章 Linear Equations in Linear Algebra 线性方程组
+- [x] 第 2 章 Matrix Algebra 矩阵代数
+- [x] 第 3 章 Determinants 行列式
 - [ ] 第 4 章 Vector Spaces 向量空间（待完成）
 - [ ] 第 5 章 Eigenvalues and Eigenvectors 特征值与特征向量（待完成）
 
